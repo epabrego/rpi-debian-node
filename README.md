@@ -1,4 +1,4 @@
-## A Simple Server with Node.js Express
+## A rpi debian with Node.js Express
 
 This is a simple skeleton Express server project that works on any of the [balena][balena-link] supported devices.
 
@@ -20,11 +20,7 @@ It should take a few minutes for the code to push. While you wait, lets enable d
 
 ![Actions Tab](/img/enable-public-URLs.png)
 
-Once the device is updated, you should see this in your logs:
-![log output](/img/log-output.png)
-
 Then in your browser you should be able to open the device URL and see the message "Hello World!".
-
 
 [balena-link]:https://balena.io/
 [signup-page]:https://dashboard.balena-cloud.com/signup
